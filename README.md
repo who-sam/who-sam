@@ -1,16 +1,46 @@
-<!---
-- 👋 Hi, I’m @who-sam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/who-sam/who-sam/main/assets/hollor_knight3.gif" width="120"/>
+</p>
 
+<pre>
+<samp>
+  $ whoami
+  → Hossam Rashed
 
-who-sam/who-sam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  $ cat profile
+  → ECE Student | Linux & DevOps Enthusiast
+
+  $ location
+  → Cairo, Egypt
+
+  $ ls ~/languages
+  → C  C++  Python  Bash  SQL  Go
+
+  $ ls ~/tools
+  → Git  Docker  Ansible  Kubernetes  AWS
+
+  $ ls ~/environment
+  → Arch Linux  RHEL  Vim  Tmux
+
+  $ ls ~/exploring
+  → Jenkins  Terraform  Wireshark
+
+  $ ls ~/projects
+  → static-site-generator   — Python/Bash, Markdown→HTML, tested with unittest
+  → automated-deployment    — AWS/Ansible/Docker/Nginx, full IaC pipeline
+
+  $ cat ~/education
+  → B.Sc. Electrical & Computer Engineering | Menofia University (2021–2026)
+</samp>
+</pre>
+
+<p align="center">
+  <a href="mailto:hossam.samy.rashed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/whosam-rashed/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/who-sam"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
+</p>
+
+<!-- OLD LAYOUT
 <p align="left">
   <br>
   <samp>
@@ -18,7 +48,7 @@ You can click the Preview link to take a look at your changes.
     <br>I'm an Electrical & Computer Engineering Undergraduate Student.<br>
   </samp>
 
-  <div style="height: 20px;"></div> <!-- Adds vertical space above the image -->
+  <div style="height: 20px;"></div>
   <img src="https://raw.githubusercontent.com/who-sam/who-sam/main/assets/hollor_knight3.gif" width="150"/>
   <br>
   <samp>
@@ -33,14 +63,7 @@ You can click the Preview link to take a look at your changes.
   </samp>
 </p>
 
-
-<!---
-<img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=who-sam&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who-sam&layout=compact&theme=tokyonight)
---->
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hossam.samy.rashed@gmail.com)](mailto:hossam.samy.rashed@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/whosam-rashed/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/who-sam)
+-->
