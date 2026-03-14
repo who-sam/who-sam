@@ -1,38 +1,28 @@
+<pre>
+                    -`                        hossam@arch
+                   .o+`                       ─────────────
+                  `ooo/                       role    ~ devops | backend | linux
+                 `+oooo:                      langs   ~ c  c++  python  bash  sql  go
+                `+oooooo:                     devops  ~ docker  k8s  ansible  terraform  jenkins
+                -+oooooo+:                    gitops  ~ argocd
+              `/:-:++oooo+:                   monitor ~ prometheus  grafana
+             `/++++/+++++++:                  cloud   ~ aws
+            `/++++++++++++++:                 env     ~ arch linux  rhel  vim  tmux
+           `/+++ooooooooooooo/`
+          ./ooosssso++osssssso+`
+         .oossssso-````/ossssss+`
+        -osssssso.      :ssssssso.
+       :osssssss/        osssso+++.
+      /ossssssss/        +ssssooo/-
+    `/ossssso+/:-        -:/+osssso+-
+   `+sso+:-`                 `.-/+oso:
+  `++:.                           `-/+/
+  .`                                 `/
+</pre>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/who-sam/who-sam/main/assets/hollor_knight3.gif" width="120"/>
 </p>
-
-<pre>
-<samp>
-  $ whoami
-  → Hossam Rashed
-
-  $ cat profile
-  → ECE Student | Linux & DevOps Enthusiast
-
-  $ location
-  → Cairo, Egypt
-
-  $ ls ~/languages
-  → C  C++  Python  Bash  SQL  Go
-
-  $ ls ~/tools
-  → Git  Docker  Ansible  Kubernetes  AWS
-
-  $ ls ~/environment
-  → Arch Linux  RHEL  Vim  Tmux
-
-  $ ls ~/exploring
-  → Jenkins  Terraform  Wireshark
-
-  $ ls ~/projects
-  → static-site-generator   — Python/Bash, Markdown→HTML, tested with unittest
-  → automated-deployment    — AWS/Ansible/Docker/Nginx, full IaC pipeline
-
-  $ cat ~/education
-  → B.Sc. Electrical & Computer Engineering | Menofia University (2021–2026)
-</samp>
-</pre>
 
 <p align="center">
   <a href="mailto:hossam.samy.rashed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
