@@ -1,0 +1,79 @@
+<svg width="800" height="430" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="800" height="430">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .terminal {
+          margin: 8px 4px;
+          border: 1px solid #30363d;
+          border-radius: 10px;
+          overflow: hidden;
+          background: #0d1117;
+          font-family: 'Courier New', Courier, monospace;
+        }
+        .titlebar {
+          background: #161b22;
+          padding: 10px 14px;
+          font-size: 13px;
+          color: #8b949e;
+          display: flex;
+          align-items: center;
+        }
+        .dot {
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+          display: inline-block;
+          margin-right: 6px;
+        }
+        .dot.red { background: #ff5f56; }
+        .dot.yellow { background: #ffbd2e; }
+        .dot.green { background: #27c93f; }
+        .title-text { margin-left: 10px; }
+        .content { padding: 16px; }
+        .content pre {
+          font-family: 'Courier New', Courier, monospace;
+          font-size: 13px;
+          line-height: 18px;
+          color: #c9d1d9;
+          margin: 0;
+        }
+        .logo { color: #1793D1; }
+        .header { color: #27c93f; font-weight: bold; }
+        .separator { color: #8b949e; }
+        .label { color: #1793D1; font-weight: bold; }
+        .tilde { color: #6e7681; }
+        .value { color: #c9d1d9; }
+      </style>
+      <div class="terminal">
+        <div class="titlebar">
+          <span class="dot red"></span>
+          <span class="dot yellow"></span>
+          <span class="dot green"></span>
+          <span class="title-text">hossam@arch:~</span>
+        </div>
+        <div class="content">
+          <pre><span class="logo">                    -&#96;</span>                        <span class="header">hossam@arch</span>
+<span class="logo">                   .o+&#96;</span>                       <span class="separator">─────────────</span>
+<span class="logo">                  &#96;ooo/</span>                       <span class="label">role</span>    <span class="tilde">~</span> <span class="value">devops | backend | linux</span>
+<span class="logo">                 &#96;+oooo:</span>                      <span class="label">langs</span>   <span class="tilde">~</span> <span class="value">c  c++  python  bash  sql  go</span>
+<span class="logo">                &#96;+oooooo:</span>                     <span class="label">devops</span>  <span class="tilde">~</span> <span class="value">docker  k8s  ansible  terraform  jenkins</span>
+<span class="logo">                -+oooooo+:</span>                    <span class="label">gitops</span>  <span class="tilde">~</span> <span class="value">argocd</span>
+<span class="logo">              &#96;/:-:++oooo+:</span>                   <span class="label">monitor</span> <span class="tilde">~</span> <span class="value">prometheus  grafana</span>
+<span class="logo">             &#96;/++++/+++++++:</span>                  <span class="label">cloud</span>   <span class="tilde">~</span> <span class="value">aws</span>
+<span class="logo">            &#96;/++++++++++++++:</span>                 <span class="label">env</span>     <span class="tilde">~</span> <span class="value">arch linux  rhel  vim  tmux</span>
+<span class="logo">           &#96;/+++ooooooooooooo/&#96;</span>
+<span class="logo">          ./ooosssso++osssssso+&#96;</span>
+<span class="logo">         .oossssso-&#96;&#96;&#96;&#96;/ossssss+&#96;</span>
+<span class="logo">        -osssssso.      :ssssssso.</span>
+<span class="logo">       :osssssss/        osssso+++.</span>
+<span class="logo">      /ossssssss/        +ssssooo/-</span>
+<span class="logo">    &#96;/ossssso+/:-        -:/+osssso+-</span>
+<span class="logo">   &#96;+sso+:-&#96;                 &#96;.-/+oso:</span>
+<span class="logo">  &#96;++:.                           &#96;-/+/</span>
+<span class="logo">  .&#96;                                 &#96;/</span></pre>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

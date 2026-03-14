@@ -1,24 +1,6 @@
-<pre>
-                    -`                        hossam@arch
-                   .o+`                       ─────────────
-                  `ooo/                       role    ~ devops | backend | linux
-                 `+oooo:                      langs   ~ c  c++  python  bash  sql  go
-                `+oooooo:                     devops  ~ docker  k8s  ansible  terraform  jenkins
-                -+oooooo+:                    gitops  ~ argocd
-              `/:-:++oooo+:                   monitor ~ prometheus  grafana
-             `/++++/+++++++:                  cloud   ~ aws
-            `/++++++++++++++:                 env     ~ arch linux  rhel  vim  tmux
-           `/+++ooooooooooooo/`
-          ./ooosssso++osssssso+`
-         .oossssso-````/ossssss+`
-        -osssssso.      :ssssssso.
-       :osssssss/        osssso+++.
-      /ossssssss/        +ssssooo/-
-    `/ossssso+/:-        -:/+osssso+-
-   `+sso+:-`                 `.-/+oso:
-  `++:.                           `-/+/
-  .`                                 `/
-</pre>
+<p align="center">
+  <img src="assets/terminal.svg" width="800" alt="hossam@arch neofetch"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/who-sam/who-sam/main/assets/hollor_knight3.gif" width="120"/>
