@@ -54,15 +54,15 @@
         <div class="content">
           <pre><span class="logo">                    -&#96;</span>                        <span class="header">hossam@arch</span>
 <span class="logo">                   .o+&#96;</span>                       <span class="separator">─────────────</span>
-<span class="logo">                  &#96;ooo/</span>                       <span class="label">Role:</span> <span class="value">devops | backend | linux</span>
-<span class="logo">                 &#96;+oooo:</span>                      <span class="label">Langs:</span> <span class="value">c  c++  python  bash  sql  go</span>
-<span class="logo">                &#96;+oooooo:</span>                     <span class="label">DevOps:</span> <span class="value">docker  k8s  ansible  terraform  jenkins</span>
-<span class="logo">                -+oooooo+:</span>                    <span class="label">GitOps:</span> <span class="value">argocd</span>
-<span class="logo">              &#96;/:-:++oooo+:</span>                   <span class="label">Monitor:</span> <span class="value">prometheus  grafana</span>
-<span class="logo">             &#96;/++++/+++++++:</span>                  <span class="label">Cloud:</span> <span class="value">aws</span>
-<span class="logo">            &#96;/++++++++++++++:</span>                 <span class="label">Env:</span> <span class="value">arch linux  rhel  vim  tmux</span>
-<span class="logo">           &#96;/+++ooooooooooooo/&#96;</span>
-<span class="logo">          ./ooosssso++osssssso+&#96;</span>
+<span class="logo">                  &#96;ooo/</span>                       <span class="label">● Role:</span> <span class="value">devops | backend | linux</span>
+<span class="logo">                 &#96;+oooo:</span>                      <span class="label">● Langs:</span> <span class="value">c  c++  python  bash  sql  go</span>
+<span class="logo">                &#96;+oooooo:</span>                     <span style="color:#484f58">■ </span><span style="color:#ff7b72">■ </span><span style="color:#3fb950">■ </span><span style="color:#d29922">■ </span><span style="color:#58a6ff">■ </span><span style="color:#bc8cff">■ </span><span style="color:#39d353">■ </span><span style="color:#b1bac4">■</span>
+<span class="logo">                -+oooooo+:</span>                    <span class="label">● DevOps:</span> <span class="value">docker  k8s  ansible  terraform  jenkins</span>
+<span class="logo">              &#96;/:-:++oooo+:</span>                   <span class="label">● GitOps:</span> <span class="value">argocd</span>
+<span class="logo">             &#96;/++++/+++++++:</span>                  <span class="label">● Monitor:</span> <span class="value">prometheus  grafana</span>
+<span class="logo">            &#96;/++++++++++++++:</span>                 <span class="label">● Cloud:</span> <span class="value">aws</span>
+<span class="logo">           &#96;/+++ooooooooooooo/&#96;</span>               <span style="color:#484f58">■ </span><span style="color:#ff7b72">■ </span><span style="color:#3fb950">■ </span><span style="color:#d29922">■ </span><span style="color:#58a6ff">■ </span><span style="color:#bc8cff">■ </span><span style="color:#39d353">■ </span><span style="color:#b1bac4">■</span>
+<span class="logo">          ./ooosssso++osssssso+&#96;</span>              <span class="label">● Env:</span> <span class="value">arch linux  rhel  vim  tmux</span>
 <span class="logo">         .oossssso-&#96;&#96;&#96;&#96;/ossssss+&#96;</span>
 <span class="logo">        -osssssso.      :ssssssso.</span>
 <span class="logo">       :osssssss/        osssso+++.</span>
